@@ -134,7 +134,10 @@ if __name__ == "__main__":
 
 ---
 
-## 🎉 Final Thoughts\n\nThis is a major milestone in my AI journey!  
+## 🎉 Final Thoughts\
+
+
+This is a major milestone in my AI journey!  
 I’ve successfully built an agent that:
 - ✅ Uses Gemini via OpenAI-compatible endpoints
 - ✅ Responds to user prompts
