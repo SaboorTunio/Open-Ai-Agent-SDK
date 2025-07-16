@@ -134,7 +134,7 @@ if __name__ == "__main__":
 
 ---
 
-## 🎉 Final Thoughts\
+## 🎉 Final Thoughts
 
 
 This is a major milestone in my AI journey!  
