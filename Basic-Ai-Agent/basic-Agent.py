@@ -23,7 +23,7 @@ async def main():
         model=OpenAIChatCompletionsModel(model="gemini-2.0-flash", openai_client=client),
     )
 
-    userInput = input("inter your prompt: ")
+    userInput = input("Enter your prompt: ")
     result = await Runner.run(
         agent,
         userInput,
